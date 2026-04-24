@@ -1,0 +1,7 @@
+{
+  "name": "Test User",
+  "mobileNumber": "1234567890",
+  "password": "Password1!",
+  "role": "CUSTOMER",
+  "address": "123 Street"
+}
